@@ -1,2 +1,3 @@
-# miblog
-Capeta proyecto1
+# my-first-blog
+Creando mi primer blog con Django
+
